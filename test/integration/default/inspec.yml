@@ -1,0 +1,6 @@
+---
+name: default
+inputs:
+  - name: expected_name
+  - name: expected_type
+  - name: expected_path
