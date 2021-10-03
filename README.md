@@ -1,4 +1,4 @@
-# terraform-libvirt-domain
+# terraform-libvirt-pool
 
 A terraform module for provisioning libvirt storage pools
 
